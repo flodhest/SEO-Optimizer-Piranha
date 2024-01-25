@@ -1,0 +1,12 @@
+C:\Users\haral\seo_optimizer\target\debug\deps\libgcc-a00488e29b9d3ec0.rmeta: C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\lib.rs C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\registry.rs C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\winapi.rs C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\com.rs C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\setup_config.rs C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\windows_registry.rs
+
+C:\Users\haral\seo_optimizer\target\debug\deps\libgcc-a00488e29b9d3ec0.rlib: C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\lib.rs C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\registry.rs C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\winapi.rs C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\com.rs C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\setup_config.rs C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\windows_registry.rs
+
+C:\Users\haral\seo_optimizer\target\debug\deps\gcc-a00488e29b9d3ec0.d: C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\lib.rs C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\registry.rs C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\winapi.rs C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\com.rs C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\setup_config.rs C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\windows_registry.rs
+
+C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\lib.rs:
+C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\registry.rs:
+C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\winapi.rs:
+C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\com.rs:
+C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\setup_config.rs:
+C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gcc-0.3.55\src\windows_registry.rs:

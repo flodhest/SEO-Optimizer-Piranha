@@ -1,0 +1,11 @@
+C:\Users\haral\seo_optimizer\target\debug\deps\libnatural-e3410cb929c9b637.rmeta: C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\natural-0.5.0\src\lib.rs C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\natural-0.5.0\src\distance.rs C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\natural-0.5.0\src\ngram.rs C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\natural-0.5.0\src\tokenize.rs C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\natural-0.5.0\src\phonetics.rs C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\natural-0.5.0\src\classifier.rs C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\natural-0.5.0\src\tf_idf.rs
+
+C:\Users\haral\seo_optimizer\target\debug\deps\natural-e3410cb929c9b637.d: C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\natural-0.5.0\src\lib.rs C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\natural-0.5.0\src\distance.rs C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\natural-0.5.0\src\ngram.rs C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\natural-0.5.0\src\tokenize.rs C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\natural-0.5.0\src\phonetics.rs C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\natural-0.5.0\src\classifier.rs C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\natural-0.5.0\src\tf_idf.rs
+
+C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\natural-0.5.0\src\lib.rs:
+C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\natural-0.5.0\src\distance.rs:
+C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\natural-0.5.0\src\ngram.rs:
+C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\natural-0.5.0\src\tokenize.rs:
+C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\natural-0.5.0\src\phonetics.rs:
+C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\natural-0.5.0\src\classifier.rs:
+C:\Users\haral\.cargo\registry\src\index.crates.io-6f17d22bba15001f\natural-0.5.0\src\tf_idf.rs:
